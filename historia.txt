@@ -3,7 +3,8 @@ v.01 Commit inicial en rama master
 v0.2
 v0.3
 v0.4
-
+v0.5 merge
+v0.6
 
 
 
